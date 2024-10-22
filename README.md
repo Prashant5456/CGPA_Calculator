@@ -17,12 +17,12 @@ This is a simple console-based C++ application that allows students to calculate
 
 **Clone the repository:**
 ```
-git clone https://github.com/Prashant5456/CGPACalculator
+git clone https://github.com/Prashant5456/CGPA_Calculator
 ```
 
 **Navigate to the project directory:**
 ```
-cd CGPACalculator
+cd CGPA_Calculator
 ```
 
 **Compile the program:**
